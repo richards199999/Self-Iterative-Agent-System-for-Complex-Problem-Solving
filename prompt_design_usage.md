@@ -1,7 +1,6 @@
 ## Prompt Design and Usage
 
-Suggested Temperature: 0.5
-*However, according to [this blog](https://eugeneyan.com/writing/prompting/#selecting-a-temperature), lower temp reduces the model intelligence.*
+Suggested Temperature: 0.5 (*However, according to [this blog](https://eugeneyan.com/writing/prompting/#selecting-a-temperature), lower temp reduces the model intelligence.*)
 
 *The whole process is iterative and involves multiple models for solving mathematical problems professionally.*
 
