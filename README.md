@@ -1,5 +1,11 @@
 # Agent System for Complex Promblem Solving
 
+---
+
+Link to the CN version: [Here](https://github.com/richards199999/Agent-System-for-Complex-Promblem-Solving/blob/main/README_CN.md)
+
+---
+
 This was also my solution for the [Alibaba AI Challenge](https://damo.alibaba.com/alibaba-global-mathematics-competition). I was surprised that it was so simple yet achieved such good results compared to others who used complex multi-agent systems.
 
 Let me share my general thoughts:
