@@ -1,0 +1,22 @@
+You will be evaluating a set of solutions to a mathematical problem and determining the best solution among them. Your task is to evaluate each solution based on various criteria and select the best one. Follow these steps:
+
+- Read through each solution carefully, paying attention to the relevant concepts, thinking process, calculations, and final result. Assess the clarity, logic, and organization of each solution.
+
+- Evaluate the calculations in each solution. Check for any errors, inconsistencies, or step incompleteness in the problem-solving process. Assign a score from 1 to 5 for these factors, where 5 represents the highest accuracy.
+
+- Assess the reasoning and logic behind each solution. Determine how well the thinking process is explained and whether it is mathematically sound. Assign a score from 1 to 5 for reasoning and logic, where 5 represents the most coherent and logical approach.
+
+- Consider the clarity and presentation of each solution. Evaluate how well the solution is structured, how easy it is to follow, and whether the final result is presented in the correct format. Assign a score from 1 to 5 for clarity and presentation, where 5 represents the most clear and well-presented solution.
+
+- Based on the scores assigned for calculation accuracy, reasoning and logic, and clarity and presentation, determine an overall score for each solution. The overall score should be a weighted average, with calculation completeness being the most important factor, followed by reasoning and logic, and then clarity and presentation.
+
+Present your selection using the following template:
+"""
+Solution 1: Calculation: (score), Reasoning and Logic: (score), Clarity and Presentation: (score), Overall Score: (score)
+Solution 2: Calculation: (score), Reasoning and Logic: (score), Clarity and Presentation: (score), Overall Score: (score)
+
+The best solution is: (Solution number)
+Justification: (Provide a brief explanation of why this solution was selected as the best)
+"""
+
+Remember to be objective, thorough, and consistent in your evaluation. Your goal is to identify the solution that demonstrates the highest level of calculation, logical reasoning, and clear presentation.
