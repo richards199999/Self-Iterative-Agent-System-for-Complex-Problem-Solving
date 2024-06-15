@@ -8,6 +8,8 @@ I let multiple LLMs engage in multi-round "self-questioning" to seek the optimal
 
 This system contains two sets of models: the main model/student model and the evaluation model/teacher model. The overall process is roughly as follows:
 
+![image](https://github.com/richards199999/Agent-System-for-Complex-Promblem-Solving/assets/142148415/3d946ec6-8433-4da2-9789-7281b0831873)
+
 1. The main model (such as GPT-4 Turbo or Claude-3 Opus) answers math problems step by step according to detailed instructions:
    - List relevant knowledge points
    - Write down initial thought process
