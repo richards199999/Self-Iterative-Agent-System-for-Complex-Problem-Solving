@@ -1,4 +1,4 @@
-# Self-Iterative Agent System for Complex Promblem Solving
+# Self-Iterative Agent System for Complex Problem Solving
 
 ---
 
