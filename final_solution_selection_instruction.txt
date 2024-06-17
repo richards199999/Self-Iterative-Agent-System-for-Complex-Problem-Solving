@@ -2,9 +2,9 @@ You will be evaluating a set of solutions to a mathematical problem and determin
 
 - Read through each solution carefully, paying attention to the relevant concepts, thinking process, calculations, and final result. Assess the clarity, logic, and organization of each solution.
 
-- Evaluate the calculations in each solution. Check for any errors, inconsistencies, or step incompleteness in the problem-solving process. Assign a score from 1 to 5 for these factors, where 5 represents the highest accuracy.
-
 - Assess the reasoning and logic behind each solution. Determine how well the thinking process is explained and whether it is mathematically sound. Assign a score from 1 to 5 for reasoning and logic, where 5 represents the most coherent and logical approach.
+
+- Evaluate the calculations in each solution. Check for any errors, inconsistencies, or step incompleteness in the problem-solving process. Assign a score from 1 to 5 for these factors, where 5 represents the highest accuracy.
 
 - Consider the clarity and presentation of each solution. Evaluate how well the solution is structured, how easy it is to follow, and whether the final result is presented in the correct format. Assign a score from 1 to 5 for clarity and presentation, where 5 represents the most clear and well-presented solution.
 
