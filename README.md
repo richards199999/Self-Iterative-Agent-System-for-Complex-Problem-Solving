@@ -31,4 +31,12 @@ This system contains two sets of models: the main model/student model and the ev
 5. Iterate using two sets of models separately to finally obtain two revised answers.
 6. Use GPT-4 Turbo to score and compare the two answers in terms of calculation, logic, clarity, etc., and provide the best answer.
 
-For extra details, please check [my blog](https://blog.richardstu.com/solution-sharing-and-some-thoughts-about-alibaba-mathematical-competition-for-ai)!
+Of course, this approach also has much room for improvement. I also exchanged ideas with members of another two teams and made a small summary and reflection:
+
+1. Regardless of the form of the Agent solution, it should be ensured that the information communication and reasoning between Sub-agents cannot go wrong. To ensure this, I believe a global "supervisor" is needed to monitor the Agent process in real-time and intervene promptly when problems arise to prevent error amplification due to a single node error.
+
+2. If the system extracts related concept knowledge points from a preset knowledge base using RAG in the concept sorting stage, and uses external tools for calculation, the results will certainly be better than a solution using only LLMs.
+
+3. In complex tasks, Agent or Agent-like architectures appear more important and effective.
+
+4. Currently, there are not many open-source or closed-source models with outstanding abilities in Math and Reasoning, and the models' capabilities in these two aspects still need to be strengthened.
